@@ -1,4 +1,4 @@
-package com.mangojellypudding.mangojs.kubejs.bindings.modules;
+package com.mangojellypudding.mangojs.kubejs.plugin.bindings.modules;
 
 import dev.latvian.mods.kubejs.level.BlockContainerJS;
 import dev.latvian.mods.kubejs.typings.Info;

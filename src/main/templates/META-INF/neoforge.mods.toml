@@ -77,6 +77,9 @@ config="${mod_id}.mixins.json"
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side="BOTH"
 
+[[accessTransformers]]
+file="META-INF/accesstransformer.cfg"
+
 # Here's another dependency
 [[dependencies.${mod_id}]]
     modId="minecraft"

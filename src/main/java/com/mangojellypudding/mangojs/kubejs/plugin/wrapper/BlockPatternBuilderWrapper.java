@@ -1,4 +1,4 @@
-package com.mangojellypudding.mangojs.kubejs.wrapper;
+package com.mangojellypudding.mangojs.kubejs.plugin.wrapper;
 
 import com.mojang.datafixers.util.Either;
 import dev.latvian.mods.kubejs.typings.Info;

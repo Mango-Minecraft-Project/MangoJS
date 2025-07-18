@@ -1,4 +1,4 @@
-package com.mangojellypudding.mangojs.kubejs.bindings.modules;
+package com.mangojellypudding.mangojs.kubejs.plugin.bindings.modules;
 
 import dev.latvian.mods.kubejs.typings.Info;
 import dev.latvian.mods.kubejs.typings.Param;
@@ -7,7 +7,6 @@ import net.minecraft.world.entity.EntityType;
 
 @Info("Utility class for entity operations.")
 public final class EntityUtils {
-
     public EntityUtils() {
     }
 

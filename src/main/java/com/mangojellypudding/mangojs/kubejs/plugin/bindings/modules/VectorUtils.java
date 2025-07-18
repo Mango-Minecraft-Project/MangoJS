@@ -1,6 +1,6 @@
-package com.mangojellypudding.mangojs.kubejs.bindings.modules;
+package com.mangojellypudding.mangojs.kubejs.plugin.bindings.modules;
 
-import com.mangojellypudding.mangojs.kubejs.bindings.MangoUtils;
+import com.mangojellypudding.mangojs.kubejs.plugin.bindings.MangoUtils;
 import dev.latvian.mods.kubejs.typings.Info;
 import dev.latvian.mods.kubejs.typings.Param;
 import net.minecraft.core.Direction;

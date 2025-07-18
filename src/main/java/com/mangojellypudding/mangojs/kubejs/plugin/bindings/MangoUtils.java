@@ -1,6 +1,6 @@
-package com.mangojellypudding.mangojs.kubejs.bindings;
+package com.mangojellypudding.mangojs.kubejs.plugin.bindings;
 
-import com.mangojellypudding.mangojs.kubejs.bindings.modules.*;
+import com.mangojellypudding.mangojs.kubejs.plugin.bindings.modules.*;
 import com.mangojellypudding.mangojs.kubejs.utils.MangoUtilsJS;
 import com.mangojellypudding.mangojs.utils.Pair;
 import dev.latvian.mods.kubejs.typings.Info;

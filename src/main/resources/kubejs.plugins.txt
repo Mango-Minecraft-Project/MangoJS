@@ -1,1 +1,1 @@
-com.mangojellypudding.mangojs.kubejs.MangoJSPlugin mangojs
+com.mangojellypudding.mangojs.kubejs.plugin.MangoJSPlugin mangojs
