@@ -19,7 +19,6 @@ import java.lang.reflect.Field;
 import java.util.List;
 import java.util.stream.IntStream;
 
-@SuppressWarnings("unused")
 @Info("Utility functions for MangoJS.")
 public interface MangoUtils {
     @Info(value = "Converts a boolean value to a symbol. Returns 1 for true, -1 for false.",

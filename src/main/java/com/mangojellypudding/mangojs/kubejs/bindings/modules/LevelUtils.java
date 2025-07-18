@@ -12,7 +12,6 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-@SuppressWarnings("unused")
 @Info("Utility class for level operations.")
 public final class LevelUtils {
     public final static int MAX_CHAIN = 4096;

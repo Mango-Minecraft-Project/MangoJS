@@ -1,6 +1,5 @@
 package com.mangojellypudding.mangojs.utils;
 
-@SuppressWarnings("unused")
 public class Pair<K, V> {
     final K left;
     final V right;

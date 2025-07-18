@@ -6,7 +6,6 @@ import dev.latvian.mods.kubejs.typings.Param;
 import net.minecraft.core.Direction;
 import net.minecraft.world.phys.Vec3;
 
-@SuppressWarnings("unused")
 @Info("Utility class for vector operations.")
 public final class VectorUtils {
     public VectorUtils() {

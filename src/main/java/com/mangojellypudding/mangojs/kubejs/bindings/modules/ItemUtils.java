@@ -13,7 +13,6 @@ import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-@SuppressWarnings("unused")
 @Info("Utility class for item operations.")
 public final class ItemUtils {
     public ItemUtils() {

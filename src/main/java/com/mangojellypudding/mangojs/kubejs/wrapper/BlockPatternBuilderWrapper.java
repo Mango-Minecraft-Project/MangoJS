@@ -13,7 +13,6 @@ import net.minecraft.world.level.block.state.pattern.BlockPatternBuilder;
 import java.util.LinkedHashMap;
 import java.util.function.Predicate;
 
-@SuppressWarnings("unused")
 public interface BlockPatternBuilderWrapper {
     @Info(value = """
             Creates a BlockPattern from a 2D array of strings and a map of block identifiers.

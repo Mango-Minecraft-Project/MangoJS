@@ -5,7 +5,6 @@ import dev.latvian.mods.kubejs.typings.Param;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
 
-@SuppressWarnings("unused")
 @Info("Utility class for entity operations.")
 public final class EntityUtils {
 

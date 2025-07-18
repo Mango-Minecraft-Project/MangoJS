@@ -6,7 +6,6 @@ import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.Mod;
 import org.slf4j.Logger;
 
-// The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(MangoJS.MODID)
 public class MangoJS {
     public static final String MODID = "mangojs";
