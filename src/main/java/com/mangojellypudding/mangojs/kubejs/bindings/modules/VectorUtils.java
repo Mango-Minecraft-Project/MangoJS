@@ -2,22 +2,24 @@ package com.mangojellypudding.mangojs.kubejs.bindings.modules;
 
 import com.mangojellypudding.mangojs.kubejs.bindings.MangoUtils;
 import dev.latvian.mods.kubejs.typings.Info;
+import dev.latvian.mods.kubejs.typings.Param;
 import net.minecraft.core.Direction;
 import net.minecraft.world.phys.Vec3;
 
-public class VectorUtils {
-    public VectorUtils() {}
+@SuppressWarnings("unused")
+@Info("Utility class for vector operations.")
+public final class VectorUtils {
+    public VectorUtils() {
+    }
 
-    /**
-     * Reflects a vector across a given axis.
-     * @param vector the vector to reflect
-     * @param axis the axis to reflect across
-     * @return the reflected vector
-     */
-    @Info("""
-        Reflects a vector across a given axis.
-        The axis can be X, Y, or Z.
-        """
+    @Info(value = """
+            Reflects a vector across a given axis.
+            The axis can be X, Y, or Z.
+            """,
+            params = {
+                    @Param(name = "vector", value = "The vector to reflect."),
+                    @Param(name = "axis", value = "The axis to reflect across (X, Y, or Z).")
+            }
     )
     public Vec3 reflect(Vec3 vector, Direction.Axis axis) {
         int isY = MangoUtils.booleanToSymbol(axis == Direction.Axis.Y);

@@ -1,13 +1,3 @@
 {
-  "itemGroup.mangojs": "MangoJS Tab",
-  "block.mangojs.example_block": "Example Block",
-  "item.mangojs.example_item": "Example Item",
-
-  "mangojs.configuration.title": "MangoJS Configs",
-  "mangojs.configuration.section.mangojs.common.toml": "MangoJS Configs",
-  "mangojs.configuration.section.mangojs.common.toml.title": "MangoJS Configs",
-  "mangojs.configuration.items": "Item List",
-  "mangojs.configuration.logDirtBlock": "Log Dirt Block",
-  "mangojs.configuration.magicNumberIntroduction": "Magic Number Text",
-  "mangojs.configuration.magicNumber": "Magic Number"
+  "itemGroup.mangojs": "MangoJS Tab"
 }
