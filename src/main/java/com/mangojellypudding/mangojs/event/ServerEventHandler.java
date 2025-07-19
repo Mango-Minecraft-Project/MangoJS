@@ -1,4 +1,4 @@
-package com.mangojellypudding.mangojs.events;
+package com.mangojellypudding.mangojs.event;
 
 import com.mangojellypudding.mangojs.MangoJS;
 import com.mangojellypudding.mangojs.kubejs.utils.MangoUtilsJS;
